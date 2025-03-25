@@ -116,11 +116,11 @@ h1{
     }
 
     #calculator-container {
-        width: 300px;
+        width: 240px;
     }
 
     .display-area {
-        width: 70%;
+        width: 85%;
         font-size: 20px;
     }
 
